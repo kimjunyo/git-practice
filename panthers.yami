@@ -3,7 +3,11 @@ team: Panthers
 manager: Nora
 
 coach:
+<<<<<<< HEAD
 -Shirley
+=======
+-Raymond
+>>>>>>> 5e9a63c (Edit Panthers)
 
 member:
 -Linda
